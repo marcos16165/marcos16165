@@ -19,7 +19,7 @@
   </td>
 
  <td width="70%">
- - 🧑🏻‍💻📚 knowledge in, HTML, CSS, Java Script ...
+
  </td>
  </tr>
 </table>
@@ -47,6 +47,7 @@
   
   ##
   
+   - 🧑🏻‍💻📚 knowledge in, HTML, CSS, Java Script ...
   
 
 
