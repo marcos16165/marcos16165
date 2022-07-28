@@ -1,20 +1,25 @@
- <div align="center">
- 
-
+<div>
+<table>
+<tr>
+<td  align="center" width="50%">
+        
 ```C++
 // my first program
 #include <iostream>
 using namespace std;
-int main ()
-                                              {                                              
+        int main (){                                              
 cout << "Hello World! I'm Marcos Monteiro":
 return 0;
 }
 Hello World! I'm Marcos Monteiro
-
 ```
-</div>
+
+<td width="50%">
 - 🧑🏻‍💻📚 knowledge in, HTML, CSS, Java Script ...
+</t>
+<tr>
+    
+</div>
 
  ##
 
@@ -36,6 +41,8 @@ Hello World! I'm Marcos Monteiro
 </div>
   
   ##
+  
+  
 
 
   
