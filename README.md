@@ -19,7 +19,7 @@
   </td>
 
  <td width="70%">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:125px;" src="https://github.com/marcos16165/marcos16165/blob/main/img/ROBOT2.png">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:150px;" src="https://github.com/marcos16165/marcos16165/blob/main/img/ROBOT2.png">
  </td>
  </tr>
 </table>
@@ -58,7 +58,6 @@
   <a href="https://discord.gg/marcos16165#2261" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/DISCORD.svg" target="_blank"></a>
   <a href = "mailto:franciscomarcos1616@gmail.com"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/GMAIL.svg" target="_blank"></a>
 
- 
 </div>
  
 
