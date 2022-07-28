@@ -42,7 +42,6 @@
   <img align="center" alt="Marcos-JS" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/JS.svg">
   <img align="center" alt="Marcos-PY" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/PY.svg">
   <img align="center" alt="Marcos-C++" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/C++.svg">
-  <img align="center" alt="Marcos-GIT" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/GIT.svg">
 </div>
   
   ##
