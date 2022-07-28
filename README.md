@@ -19,7 +19,7 @@
   </td>
 
  <td width="70%">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/marcos16165/marcos16165/blob/main/img/ROBOT2.png">
+  <img align="right" alt="Rafa-pic" height="250" style="border-radius:100px;" src="https://github.com/marcos16165/marcos16165/blob/main/img/ROBOT2.png">
  </td>
  </tr>
 </table>
