@@ -35,7 +35,7 @@
 </div>
   
   ##
-  
+<h3>Linguagens </h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-HTML" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/HTML5.svg">
   <img align="center" alt="Marcos-CSS" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/CSS3.svg">
@@ -50,8 +50,6 @@
  
   ##
  <h3>Outras Ferramentas </h3>
- 
-  ##
  <div>
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
@@ -61,7 +59,7 @@
   ##
   
 <div> 
-
+<h3>Contatos </h3>
    <a href="https://www.linkedin.com/in/francisco-marcos%E2%99%BF-5691b2211/" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/LINKEDIN.svg" target="_blank"></a> 
    <a href="https://www.instagram.com/marcosmonteiro1601/" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/INSTAGRAM.svg" target="_blank"></a>
  	<a href="https://contate.me/Marcos_Monteiro" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/WHATSAPP.svg" target="_blank"></a>
