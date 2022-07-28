@@ -50,6 +50,17 @@
  
   ##
  
+  ##
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Marcos-HTML" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/HTML5.svg">
+  <img align="center" alt="Marcos-CSS" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/CSS3.svg">
+  <img align="center" alt="Marcos-JS" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/JS.svg">
+  <img align="center" alt="Marcos-PY" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/PY.svg">
+  <img align="center" alt="Marcos-C++" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/C++.svg">
+</div>
+  
+  ##
+  
 <div> 
 
    <a href="https://www.linkedin.com/in/francisco-marcos%E2%99%BF-5691b2211/" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/LINKEDIN.svg" target="_blank"></a> 
