@@ -55,8 +55,8 @@
   <img alt="Marcos-PREMIERE" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
   <img alt="Marcos-PHOTHOSHOP" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
   <img alt="Marcos-ZABBIX" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/ZABBIX.png">
-</div>
-  
+ </div>
+ 
   ##
   
 <div> 
