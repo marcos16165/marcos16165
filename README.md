@@ -51,10 +51,10 @@
   ##
  
   ##
- <div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-PREMIERE" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
-  <img align="center" alt="Marcos-PHOTHOSHOP" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
-  <img align="center" alt="Marcos-ZABBIX" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/ZABBIX.png">
+ <div>
+  <img alt="Marcos-PREMIERE" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
+  <img alt="Marcos-PHOTHOSHOP" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
+  <img alt="Marcos-ZABBIX" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/ZABBIX.png">
 </div>
   
   ##
