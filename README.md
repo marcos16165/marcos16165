@@ -48,6 +48,6 @@
   
    - 🧑🏻‍💻📚 knowledge in, HTML, CSS, Java Script ...
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
   
