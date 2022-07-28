@@ -56,7 +56,6 @@
    <a href="https://www.instagram.com/marcosmonteiro1601/" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/INSTAGRAM.svg" target="_blank"></a>
  	<a href="https://contate.me/Marcos_Monteiro" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/WHATSAPP.svg" target="_blank"></a>
   <a href="https://discord.gg/marcos16165#2261" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/DISCORD.svg" target="_blank"></a>
- 
   <a href = "mailto:franciscomarcos1616@gmail.com"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/GMAIL.svg" target="_blank"></a>
 
  
