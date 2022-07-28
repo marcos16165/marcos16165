@@ -49,12 +49,13 @@
    - 🧑🏻‍💻📚 knowledge in, HTML, CSS, Java Script ...
  
   ##
+ <h3>Outras Ferramentas </h3>
  
   ##
  <div>
-  <img alt="Marcos-PREMIERE" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
-  <img alt="Marcos-PHOTHOSHOP" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
-  <img alt="Marcos-ZABBIX" height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/ZABBIX.png">
+  <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
+  <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
+  <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/ZABBIX.png">
  </div>
  
   ##
