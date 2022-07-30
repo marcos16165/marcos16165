@@ -61,9 +61,10 @@
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/ZABBIX.png">
-  <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/EXCEL.png">
+  <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/OFFICE.png">
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/DRIVE.png">
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/COLAB.png">
+  <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/VSCODE.png">
  </div>
  
   ##
