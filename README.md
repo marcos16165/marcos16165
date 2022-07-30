@@ -46,7 +46,7 @@
   
   ##
  <h3>Formação <img alt="Marcos-BOOKS" width="30" height="30" src="https://github.com/marcos16165/marcos16165/blob/main/img/SONIC.gif"></h3> 
- <img align="right" alt="Marcos-BOOKS" width="1450" height="115" src="https://github.com/marcos16165/marcos16165/blob/main/img/LIVROS.gif">
+ <img align="right" alt="Marcos-BOOKS" width="145" height="115" src="https://github.com/marcos16165/marcos16165/blob/main/img/LIVROS.gif">
  
    - 🎓🖥️- Bacharel em Ciência da Computação | UERN ...
    - 🤓📚- Técnico em informática | Escola Agrícola de Jundiaí | UFRN ...
