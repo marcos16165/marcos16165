@@ -19,7 +19,7 @@
   </td>
 
  <td width="70%">
-  <img align="right" alt="Rafa-pic" height="180" style="border-radius:150px;" src="https://github.com/marcos16165/marcos16165/blob/main/img/ROBOT2.png">
+  <img align="right" alt="Marcos-ROBOT" height="180" style="border-radius:150px;" src="https://github.com/marcos16165/marcos16165/blob/main/img/ROBOT2.png">
  </td>
  </tr>
 </table>
@@ -45,8 +45,16 @@
 </div>
   
   ##
-  
+ 
+ <img align="right" alt="Marcos-BOOKS" height="120" src="https://github.com/marcos16165/marcos16165/blob/main/img/LIVROS.gif">
+ 
+   - 🧑🏻‍💻📚 Bacharel em Ciência da Computação | UERN ...
+   - 🧑🏻‍💻📚 Técnico em informática | Escola Agrícola de Jundiaí | UFRN ...
+   - 🧑🏻‍💻📚 Operador de computador | IFRN.
    - 🧑🏻‍💻📚 knowledge in, HTML, CSS, Java Script ...
+ 
+ 
+ 
  
   ##
  <h3>Outras Ferramentas </h3>
