@@ -35,7 +35,7 @@
 </div>
   
   ##
-<h3>Linguagens </h3> 
+<h3>Linguagens <img alt="Marcos-AMONGUS" width="30" height="30" src="https://github.com/marcos16165/marcos16165/blob/main/img/AMONGUS.gif"></h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-HTML" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/HTML5.svg">
   <img align="center" alt="Marcos-CSS" height="70" width="80" src="https://github.com/marcos16165/marcos16165/blob/main/img/CSS3.svg">
@@ -56,7 +56,7 @@
    
  
   ##
- <h3>Outras Ferramentas </h3>
+ <h3>Outras Ferramentas <img alt="Marcos-CUP" width="40" height="40" src="https://github.com/marcos16165/marcos16165/blob/main/img/CUP.gif"></h3>
  <div>
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
