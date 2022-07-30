@@ -52,6 +52,8 @@
    - 🤓📚 - Técnico em informática | Escola Agrícola de Jundiaí | UFRN ...
    - 🧑🏻‍💻 - Operador de computador | IFRN.
    - 👨🏻‍💻📚 - knowledge in, HTML, CSS, Java Script ...
+   
+   
  
   ##
  <h3>Outras Ferramentas </h3>
