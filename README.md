@@ -46,15 +46,12 @@
   
   ##
  
- <img align="right" alt="Marcos-BOOKS" height="120" src="https://github.com/marcos16165/marcos16165/blob/main/img/LIVROS.gif">
+ <img align="right" alt="Marcos-BOOKS" width="160" height="130" src="https://github.com/marcos16165/marcos16165/blob/main/img/LIVROS.gif">
  
    - 🧑🏻‍💻📚 Bacharel em Ciência da Computação | UERN ...
    - 🧑🏻‍💻📚 Técnico em informática | Escola Agrícola de Jundiaí | UFRN ...
    - 🧑🏻‍💻📚 Operador de computador | IFRN.
    - 🧑🏻‍💻📚 knowledge in, HTML, CSS, Java Script ...
- 
- 
- 
  
   ##
  <h3>Outras Ferramentas </h3>
