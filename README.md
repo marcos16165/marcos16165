@@ -56,7 +56,7 @@
    
  
   ##
- <h3>Outras Ferramentas  </h3>
+ <h3>Outras Ferramentas <img alt="Marcos-PLANTS" width="30" height="30" src="https://github.com/marcos16165/marcos16165/blob/main/img/PLANTS.gif"> </h3>
  <div>
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PREMIERE.png">
   <img height="45" width="55" src="https://github.com/marcos16165/marcos16165/blob/main/img/PHOTOSHOP.png">
