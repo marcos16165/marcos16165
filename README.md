@@ -78,10 +78,11 @@
   <a href = "mailto:franciscomarcos1616@gmail.com"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/GMAIL.svg" target="_blank"></a>
 
 </div>
-
+ 
+ ##
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcos16165}/count.svg" /></p> 
 <br>
 </div>
