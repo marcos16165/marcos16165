@@ -70,7 +70,7 @@
   ##
   
 <div> 
-<h3>Contatos/Visitas<img alt="Marcos-CUP" width="30" height="30" src="https://github.com/marcos16165/marcos16165/blob/main/img/CUP.gif"></h3>
+<h3>Contatos<img alt="Marcos-CUP" width="30" height="30" src="https://github.com/marcos16165/marcos16165/blob/main/img/CUP.gif"></h3>
    <a href="https://www.linkedin.com/in/francisco-marcos-5691b2211/" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/LINKEDIN.svg" target="_blank"></a> 
    <a href="https://www.instagram.com/marcosmonteiro1601/" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/INSTAGRAM.svg" target="_blank"></a>
  	<a href="https://contate.me/Marcos_Monteiro" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/WHATSAPP.svg" target="_blank"></a>
